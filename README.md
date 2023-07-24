@@ -1,23 +1,20 @@
-# A collection of my texture replacements for GOD EATER 3 if/when I make them. Unpacking guide 
-not included.
+# A collection of my texture replacements for GOD EATER 3 if/when I make them.
+Unpacking guide not included.
 
 DIY General Information
 
-
 DDS Textures
-
-Many of the UI and menu icons for the game you will find in DDS format and can be edited with
-GIMP or Microsoft Visual Studio.
+Many of the UI and menu icons for the game use the industry standard DDS files. They can be edited 
+with GIMP or Microsoft Visual Studio.
+	Place .dds files in "\resource\target\win\texture"
 
 MDS Textures
-
-The textures that appear on outfits and characters are saved in MDS format
-
-MDS files are some kind of dds texture file with a different extension. These files are applied 
-only to mdl files, whearas ui element textures use the industry standard dds files. These mds 
-texture files can be manipulated by changing the extension to .dds and the standards of dds 
+The textures that appear on outfits and characters are saved in MDS format-MDS files are some
+kind of dds texture file with a different extension. These files are applied only to mdl files,
+These mds texture files can be manipulated by changing the extension to .dds and the standards of dds 
 still apply. Some MDS files are compressed with a newer method that GIMP's DDS plugin cannot load.
 These files can be edited via Microsoft Visual Studio.
+	Place .mds files in "\resource\target\win\mdltex"
 
 Files with the .mds extension are named as such
 
