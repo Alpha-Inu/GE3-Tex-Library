@@ -33,7 +33,7 @@ Files with the .mds extension are named as such
 	4  - Variation   	         - "03"				                outfits come in sets, this defines which is which.
 	5  - Class	 		 - "S"				                  outlines texture type [shadow,albedo,etc.]
 	
-	This texture is for the "Shadow" texture of Variation 3 of the Frost Walker outfit set, the 
+	This texture is for the "Shadow" texture of Variation 3 of the Blaze Walker outfit set, the 
 	Forest Walker lower body costume on the male player character
 	
 	*Understand that entity, prop, code, variation, and class are not game-defined terms and 
