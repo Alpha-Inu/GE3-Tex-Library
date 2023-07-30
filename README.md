@@ -51,3 +51,5 @@ Files with the .mds extension are named as such
 	NORMAL_TEX	              filename_N
 	EMISSIVE_TEX                  filename_E
 	RIM_TEX	                      filename_R
+
+See the Info.md inside each directory to see the specific filenames of the textures you will be replacing
