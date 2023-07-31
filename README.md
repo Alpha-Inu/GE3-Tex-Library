@@ -45,11 +45,14 @@ Files with the .mds extension are named as such
 	
 	Texture types:                Example
  
-	ALBEDO_TEX	              filename_A
-	SHADOW_TEX                    filename_S
+	ALBEDO_TEX	              filename_A		-The texture you will see when an object is illuminated by the scene lighting
+	SHADOW_TEX                    filename_S		-This texture will be visible on the object where a shadow is cast, 
 	ARMH_TEX                      filename_ARMH
 	NORMAL_TEX	              filename_N
 	EMISSIVE_TEX                  filename_E
 	RIM_TEX	                      filename_R
+
+  	In the game, the dynamic lighting is achieved on character models by manipulating the opacity of the albedo texture in relation to 
+   	wherever the light source is. 
 
 See the Info.md inside each directory to see the specific filenames of the textures you will be replacing
