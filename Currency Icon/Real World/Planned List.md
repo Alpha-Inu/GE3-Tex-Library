@@ -28,7 +28,6 @@ Index<br>
   BOB   - Bolivian Boliviano<br>
   BRL   - Brazilian Real<br>
   BSD   - Bahamian Dollar<br>
-  BTC   - Bitcoin<br>
   BTN   - Bhutanese Ngultrum<br>
   BWP   - Botswanan Pula<br>
   BYR   - Belarusian Ruble<br>
