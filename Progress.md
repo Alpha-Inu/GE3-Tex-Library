@@ -28,7 +28,7 @@ Lulu<br>
   Nothing to show yet<br>
 <br>
 Currency Icons<br>
-  1 Crypto texture<br>
+  1 Crypto Currency texture<br>
   4 Fiat Currency textures<br>
   <br>
 Quality of Life<br>
