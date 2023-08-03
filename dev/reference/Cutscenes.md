@@ -7,12 +7,12 @@ displayed on in-game objects like TV screens"
 
 How to view USM cutscene files:
 
-Download/Install VGMToolbox and FFMpeg.<br>  
-Open VGMToolbox, navigate down to Stream Tools and select the Video DeMultiplexer.<br>
-Select "USM (CRI Movie 2)" from the drop-down list, tick "Extract Audio and Video"<br>
-Drag and drop your desired video into the VGMToolbox window. VGM will save the audio<br>
-and the video tracks in the same directory as the original USM file-one M2V file and<br>
-one HCA file.
+1. Download/Install VGMToolbox and FFMpeg.<br>  
+2. Open VGMToolbox, navigate down to Stream Tools and select the Video DeMultiplexer.<br>
+3. Select "USM (CRI Movie 2)" from the drop-down list, tick "Extract Audio and Video"<br>
+4. Drag and drop your desired video into the VGMToolbox window. VGM will save the audio<br>
+and the video tracks in the same directory as the original USM file-one M2V video file and<br>
+one HCA audio file.
 
 From there, drag your M2V file and drop it on "ffplay.exe"
 
