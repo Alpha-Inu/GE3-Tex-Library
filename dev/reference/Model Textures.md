@@ -1,10 +1,11 @@
 MDS Textures
 
-The textures that appear on outfits and characters are saved in MDS format-MDS files are some
-kind of dds texture file with a different extension. These files are applied only to mdl files,
-These mds texture files can be manipulated by changing the extension to .dds and the standards of dds 
-still apply. Some MDS files are compressed with a newer method that GIMP's DDS plugin cannot load.
-These files can be edited via Microsoft Visual Studio.
+The textures that appear on outfits and characters are saved in MDS format-an MDS file is a DDS file in disguise. These files are applied only to mdl files and they are compressed with DX10,
+making some of them unreadable by GIMP. My personally recommended tool for editing these textures is paint.NET as it can read all the relevant formats/compression methods.
+The way to edit these textures on your own is by changing the extension to .dds and loading them into any graphics program that can export DDS files, as long as it can also recompress/decompress
+DX10-when saving your custom texture, always generate Mipmaps. I believe the correct method is BC3 (sRGB Dx10+), but everything from BC3 to BC7 seems to work also.
+
+DirectDraw Surface (.DDS)[1024x1024,compressed: DX10,Mipmap]
 
 Place .mds files in "\resource\target\win\mdltex"
 
