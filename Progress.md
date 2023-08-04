@@ -2,6 +2,7 @@
 <br>
 Claire<br>
   16 colors for Claire's skirt, 8 normal and 8 inverted<br>
+  6 Scars for Claire from Lulu<br>
 <br>
 Ricardo<br>
   Nothing to show yet<br>
