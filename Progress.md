@@ -25,7 +25,7 @@ Phym<br>
   Nothing to show yet<br>
 <br>
 Lulu<br>
-  Nothing to show yet<br>
+  6 Options for Lulu's facial scarring<br>
 <br>
 Currency Icons<br>
   1 Crypto Currency texture<br>
