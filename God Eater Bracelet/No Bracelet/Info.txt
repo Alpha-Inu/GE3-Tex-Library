@@ -8,3 +8,5 @@ Move these 5 files out of "resource\target\win\model"
   P_P_UN0016.mdl
   P_P_UN0021.mdl
   P_P_UN0025.mdl
+
+Removes Bracelets globally
