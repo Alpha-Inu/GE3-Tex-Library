@@ -1,0 +1,71 @@
+# Accessories A Index - How to find stuff
+
+
+Ammit Head                 P_A_UN0461
+Angel Wings                P_A_UN0571
+Animal Ears                P_A_UN0711
+Anubis Gold                P_A_UN0601
+Beret                      P_A_UN0531
+Bunny Ears                 P_A_UN0161
+Cat Ears                   P_A_UN0141
+Chubby Anubis              P_A_UN0421
+Comfy Marduk               P_A_UN0441
+Conquerer Circlet          P_A_UN0521
+Corsage                    P_A_UN0501
+Devil Horns                P_A_UN0581
+Devil Wings                P_A_UN0561
+Dog Ears                   P_A_UN0151
+Ear Muffs                  P_A_UN0631
+Extensions 1               P_A_UN0091
+Extensions 2               P_A_UN0101
+Extensions 3               P_A_UN0271
+Extensions 4               P_A_UN0281
+Extensions 5               P_A_UN0351
+Extensions 6               P_A_UN0361
+Extensions 7               P_A_UN0371
+Extensions 8               P_A_UN0331
+Extensions 9               P_A_UN0341
+Extensions 10              P_A_UN0311
+Extensions 11              P_A_UN0321
+Festive Hat                P_A_UN0661
+Flower Accessory           P_A_UN0061
+Frizz 1                    P_A_UN0071
+Frizz 2                    P_A_UN0081
+Frizz 3                    P_A_UN0241
+Frizz 4                    P_A_UN0251
+Frizz 5                    P_A_UN0261
+Golden Crown               P_A_UN0671
+Hair Clip 1                P_A_UN0041
+Hair Clip 2                P_A_UN0051
+Hair Clip 3                P_A_UN0191
+Hair Clip 4                P_A_UN0201
+Hair Clip 5                P_A_UN0211
+Hair Clip 6                P_A_UN0221
+Hair Clip 7                P_A_UN0231
+Hairpin 1                  P_A_UN0011
+Hairpin 2                  P_A_UN0021
+Hairpin 3                  P_A_UN0031
+Headphones                 P_A_UN0391
+Headset                    P_A_UN0171
+Knit Hat                   P_A_UN0641
+Marduk Gold                P_A_UN0621
+Mech Ears                  P_A_UN0401
+Military Beret             P_A_UN0381
+Oden Sandwich              P_A_UN0691
+Pancake Tower              P_A_UN0591
+Pearl Accessory            P_A_UN0111
+Phym's Halo                P_A_UN0681
+Ribbon 1                   P_A_UN0121
+Ribbon 2                   P_A_UN0131
+Ribbon 3                   P_A_UN0291
+Ribbon 4                   P_A_UN0301
+Ribbon 5                   P_A_UN0541
+Silk Hat                   P_A_UN0551
+Silver Tiara               P_A_UN0701
+Sleepy Vajra               P_A_UN0431
+Small Hat                  P_A_UN0651
+Squishy Gold               P_A_UN0511
+Squishy Phym               P_A_UN0451
+Vajra Gold                 P_A_UN0611
+Wing Accessory             P_A_UN0181
+Wool Hat                   P_A_UN0411
