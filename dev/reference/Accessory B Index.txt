@@ -1,0 +1,51 @@
+# Accessories B Index - How to find stuff
+
+
+Adhesive Bandage                 P_C_UN0251
+Bandages 1                       P_C_UN0141
+Bandages 2                       P_C_UN0151
+Beauty Mark                      P_C_UN0241
+Blush                            P_C_UN0461
+Code Vein Mask Frame             P_C_UN0371
+Code Vein Purifier Mask          P_C_UN0381
+Earrings 1                       P_C_UN0121
+Earrings 2                       P_C_UN0131
+Earrings 3                       P_C_UN0221
+Earrings 4                       P_C_UN0231
+Eyepatch 1                       P_C_UN0051
+Eyepatch 2                       P_C_UN0061
+Eyepatch 3                       P_C_UN0071
+Face Gear                        P_C_UN0361
+Face Mask 1                      P_C_UN0331
+Face Mask 2                      P_C_UN0411
+Face Mask 3                      P_C_UN0421
+Face Mask 4                      P_C_UN0441
+Face Mask 5                      P_C_UN0471
+Face Paint 1                     P_C_UN0161
+Face Paint 2                     P_C_UN0171
+Face Paint 3                     P_C_UN0261
+Face Paint 4                     P_C_UN0271
+Face Paint 5                     P_C_UN0281
+Face Paint 6                     P_C_UN0291
+Face Paint 7                     P_C_UN0301
+Gauze                            P_C_UN0111
+Glasses 1                        P_C_UN0011
+Glasses 2                        P_C_UN0021
+Glasses 3                        P_C_UN0031
+Glasses 4                        P_C_UN0041
+Headgear                         P_C_UN0341
+Mask                             P_C_UN0311
+Miniature Display                P_C_UN0211
+Mustache                         P_C_UN0431
+Night-Vision Goggles             P_C_UN0321
+Phym's Horn                      P_C_UN0451
+Scar 1                           P_C_UN0191
+Scar 2                           P_C_UN0201
+Sunglasses 1                     P_C_UN0351
+Sunglasses 2                     P_C_UN0401
+Sunglasses 3                     P_C_UN0391
+Tape 1                           P_C_UN0081
+Tape 2                           P_C_UN0091
+Tape 3                           P_C_UN0101
+Tape 4                           P_C_UN0181
+Young Gangan 15th Anniv.         P_C_UN0481
